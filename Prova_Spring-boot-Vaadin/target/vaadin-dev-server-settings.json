@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/arcan/eclipse-workspace/Prova_Spring-boot-Vaadin/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/arcan/eclipse-workspace/Prova_Spring-boot-Vaadin/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/arcan/eclipse-workspace/Prova_Spring-boot-Vaadin/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\arcan\\eclipse-workspace\\Prova_Spring-boot-Vaadin\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\arcan\\eclipse-workspace\\Prova_Spring-boot-Vaadin\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/arcan/eclipse-workspace/Prova_Spring-boot-Vaadin/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/arcan/eclipse-workspace/Prova_Spring-boot-Vaadin/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/arcan/eclipse-workspace/Prova_Spring-boot-Vaadin/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\arcan\\eclipse-workspace\\Prova_Spring-boot-Vaadin\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
